@@ -1,0 +1,21 @@
+{
+  "name": "05-express-advanced",
+  "version": "1.0.0",
+  "description": "during your backend development, you will stumble on common problems that will repeat in many backend apps.  In this lesson we will go over some of those common problems and how we solve them with express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0"
+  }
+}
